@@ -1,0 +1,6 @@
+const names = require('./2.js')
+const sayhi = require('./app.js')
+const data = require('./alternative-export.js')
+require('./a1.js')
+// console.log(data)
+// sayhi(names.john)

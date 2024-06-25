@@ -1,0 +1,4 @@
+for manifest file : 
+npm init -y 
+or for specifications 
+npm init
